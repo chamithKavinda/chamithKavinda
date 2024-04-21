@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamithkavinda" alt="chamithkavinda" /></a> </p>
 
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/chamithKavinda.svg)](https://user-badge.committers.top/sri_lanka/chamithKavinda)
+
 - 🌱 I’m currently learning **IJSE**
 
 - 📫 How to reach me **chamith13kavinda@gmail.com**
