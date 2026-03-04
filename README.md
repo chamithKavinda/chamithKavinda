@@ -13,6 +13,13 @@
 
 ---
 
+## 🌐 Portfolio
+
+Check out my personal portfolio website where I showcase my projects and experience:
+
+🔗 **https://chamithkavinda.dev/**
+
+
 ## 👨‍💻 About Me
 
 I'm a passionate software engineer based in Sri Lanka with hands-on industry experience and a strong academic foundation in computing. I enjoy building scalable, clean, and impactful software solutions.
