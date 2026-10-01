@@ -1,128 +1,286 @@
+<!-- =========================================================
+     CHAMITH KAVINDA — GITHUB PROFILE README
+========================================================= -->
+
 <div align="center">
-# Hi there, I'm Chamith Kavinda 👋
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chamithkavinda&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
 
-**Associate Software Engineer | Software Engineering Diploma Graduate | BSc Computing Undergraduate**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f172a,100:0ea5e9&text=Chamith%20Kavinda&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=58&animation=fadeIn" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamith-kavinda-880330282)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23112578)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamith13kavinda@gmail.com)
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Associate+Software+Engineer;Building+Modern+Digital+Experiences;Frontend+%26+Full-Stack+Developer;React+%7C+Java+%7C+Spring+Boot+%7C+TypeScript;Always+Learning.+Always+Building."
+  alt="Typing SVG"
+/>
+
+<br/><br/>
+
+<a href="https://chamithkavinda.dev/">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://linkedin.com/in/chamith-kavinda-880330282">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:chamith13kavinda@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://stackoverflow.com/users/23112578">
+  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=chamithkavinda&label=PROFILE+VIEWS&color=0ea5e9&style=flat-square" alt="Profile Views" />
+
 </div>
 
 ---
 
-## 🌐 Portfolio
-
-Check out my personal portfolio website where I showcase my projects and experience:
-
-🔗 **https://chamithkavinda.dev/**
-
-
 ## 👨‍💻 About Me
 
-I'm a passionate software engineer based in Sri Lanka with hands-on industry experience and a strong academic foundation in computing. I enjoy building scalable, clean, and impactful software solutions.
+```typescript
+const chamith = {
+  name: "Chamith Kavinda",
+  role: "Associate Software Engineer",
+  location: "Sri Lanka 🇱🇰",
 
-- 💼 **Associate Software Engineer** at **BIO FOODS (PVT) LTD**
+  education: [
+    "BSc (Hons) Computing — University of Bedfordshire",
+    "Graduate Diploma in Software Engineering — IJSE"
+  ],
+
+  interests: [
+    "Full-Stack Development",
+    "Frontend Engineering",
+    "UI/UX Design",
+    "Software Architecture",
+    "Cloud & DevOps"
+  ],
+
+  currentlyLearning: [
+    "Scalable Software Architecture",
+    "Cloud Technologies",
+    "Advanced Full-Stack Development"
+  ],
+
+  motto: "Transforming ideas into digital experiences."
+};
+```
+
+I'm a **Software Engineer from Sri Lanka** passionate about designing and building clean, scalable, and user-focused digital products.
+
+I enjoy working across the software development lifecycle — from **UI/UX concepts and frontend interfaces to APIs, databases, and application architecture**.
+
+- 💼 **Associate Software Engineer** at **BIO FOODS AGRO (PVT) LTD**
 - 🎓 **BSc (Hons) Computing** — *University of Bedfordshire* *(In Progress)*
 - 📜 **Graduate Diploma in Software Engineering** — *Institute of Software Engineering (IJSE)*
-- 🌱 Currently expanding my skills in **full-stack development** and **software architecture**
-- 💬 Ask me about **Java, web development, or software engineering best practices**
+- 🌱 Expanding my skills in **Full-Stack Development, Software Architecture, Cloud, and DevOps**
+- 💬 Ask me about **Java, React, TypeScript, Spring Boot, Web Development, or Software Engineering**
 - 📫 Reach me at **chamith13kavinda@gmail.com**
+- 🌐 Portfolio: **https://chamithkavinda.dev/**
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I'm Focused On
 
-**Languages**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+### 💻 Engineering
 
-**Frameworks & Libraries**
+Building modern and maintainable applications with:
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Java EE](https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+`React` `TypeScript` `Java` `Spring Boot`  
+`Node.js` `REST APIs` `SQL`
 
-**Databases & Cloud**
+</td>
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+<td width="50%" valign="top">
 
-**Tools & DevOps**
+### 🎨 Product & UI
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![JasperReports](https://img.shields.io/badge/JasperReports-008000?style=for-the-badge&logoColor=white)
+Creating user-focused interfaces with:
 
-**UI/UX & Design**
+`UI/UX` `Responsive Design`  
+`Figma` `Design Systems` `Accessibility`
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
-![Lucidchart](https://img.shields.io/badge/Lucidchart-FF8C00?style=for-the-badge&logoColor=white)
+</td>
+</tr>
 
-**Architecture & Patterns**
+<tr>
+<td width="50%" valign="top">
 
-![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-6DB33F?style=for-the-badge&logoColor=white)
-![Monolithic](https://img.shields.io/badge/Monolithic-607D8B?style=for-the-badge&logoColor=white)
-![Layered](https://img.shields.io/badge/Layered_Architecture-795548?style=for-the-badge&logoColor=white)
+### ☁️ Architecture
+
+Learning and applying:
+
+`Microservices` `MVC`  
+`Layered Architecture` `Cloud`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ DevOps
+
+Working with:
+
+`Git` `GitHub` `Docker`  
+`Kubernetes` `AWS` `GCP`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Arsenal
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chamithkavinda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chamithkavinda&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chamithkavinda&theme=tokyonight&hide_border=true" />
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css&theme=dark" alt="Languages" />
+
+<br/><br/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,bootstrap,jquery&theme=dark" alt="Frontend Technologies" />
+
+<br/><br/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven&theme=dark" alt="Backend Technologies" />
+
+<br/><br/>
+
+### Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,gcp&theme=dark" alt="Databases and Cloud" />
+
+<br/><br/>
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,vscode,idea,figma&theme=dark" alt="DevOps and Tools" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Java EE](https://img.shields.io/badge/Java_EE-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-6DB33F?style=flat-square&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-2563EB?style=flat-square&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JasperReports](https://img.shields.io/badge/JasperReports-008000?style=flat-square&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chamithkavinda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamithkavinda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=chamithkavinda&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chamithkavinda&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/chamithkavinda/chamithkavinda/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/chamithkavinda/chamithkavinda/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/chamithkavinda/chamithkavinda/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+> **Note:** The contribution snake requires a GitHub Actions workflow to generate the SVG files in the `output` branch.
+
+---
+
+## 💡 Developer Mindset
+
+<div align="center">
+
+### `Design it.` → `Build it.` → `Improve it.` → `Ship it.` 🚀
+
+> **"Great software isn't just about writing code — it's about solving the right problems."**
+
 </div>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to new opportunities, collaborations, or a good tech conversation!
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamith-kavinda-880330282)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamith13kavinda@gmail.com)
+I'm always interested in **software engineering opportunities, collaborations, open-source projects, and meaningful tech conversations.**
+
+<br/>
+
+<a href="https://chamithkavinda.dev/">
+  <img src="https://img.shields.io/badge/Visit_My_Portfolio-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
+</a>
+
+<a href="https://linkedin.com/in/chamith-kavinda-880330282">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+
+<a href="mailto:chamith13kavinda@gmail.com">
+  <img src="https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+</a>
+
+<br/><br/>
+
+### 🌐 [chamithkavinda.dev](https://chamithkavinda.dev/)
 
 </div>
 
----
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:0f172a,100:0ea5e9" />
